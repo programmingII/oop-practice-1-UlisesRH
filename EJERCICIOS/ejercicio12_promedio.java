@@ -1,5 +1,5 @@
 /*Nombre:Ulises Hernandez */
-/*Dia: 07/02/2019 */
+/*Dia: 09/02/2019 */
 /*Hora: 1:20*/
 
 import java.util.Scanner;/*Aqui llamo a la clase scanner que se encuentra en la libreria util*/
